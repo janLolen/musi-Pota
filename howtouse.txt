@@ -1,5 +1,5 @@
-Rename the file to subtitles_english.txt
-Move it to C:\Program Files (x86)\Steam\steamapps\common\Portal\portal\resource
+Copy the contents of subtitles_tokipona.txt (UTF-8) to subtitles_english.txt (UTF-16)
+Copy subtitles_english.txt to C:\Program Files (x86)\Steam\steamapps\common\Portal\portal\resource
 Drag it into C:\Program Files (x86)\Steam\steamapps\common\Portal\bin\captioncompiler.exe
 Move both the .txt file and the new .dat file to C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2
 Done
