@@ -3,7 +3,7 @@
 "Language" "English" 
 "Tokens" 
 { 
-"L4D360UI_AudioVideo"				"AUDIO/VIDEO"
+"L4D360UI_AudioVideo"				"kalama/sitelen"
 "L4D360UI_ChangeClass"				"Change Class"
 "L4D360UI_ChangeTeam"				"Change Team"
 "L4D360UI_InYourParty"				"In Your Party"
@@ -638,9 +638,9 @@
 "L4D360UI_MainMenu_PlayWithGroups_Tip"					"Find a game hosted by one of your Steam Groups."
 "L4D360UI_MainMenu_Browse_Tip"					"Browse a list of public games."
 
-"L4D360UI_MainMenu_WelcomeMessageG"				"Welcome!"
-"L4D360UI_MainMenu_WelcomeMessage"				"Welcome, %s1."
-"L4D360UI_MainMenu_WelcomeMessage2"				"Welcome, %s1 and %s2."
+"L4D360UI_MainMenu_WelcomeMessageG"				"o kama pona!"
+"L4D360UI_MainMenu_WelcomeMessage"				"%s1 o kama pona."
+"L4D360UI_MainMenu_WelcomeMessage2"				"%s1 en %s2 o kama pona."
 "L4D360UI_MainMenu_SignInMessage"				"Please Sign in"
 "L4D360UI_MainMenu_SignInMessageSplitscreen"	"Player Two: Sign in to play."
 "L4D360UI_MainMenu_SignInMessageSsStart2"		"Player Two: Press START to join."
