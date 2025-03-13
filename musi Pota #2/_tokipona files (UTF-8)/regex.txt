@@ -1,0 +1,2 @@
+Translated lines: "<clr:[^>]*>[a-z][^:]*: [a-z].*"
+All lines: "<clr:[^>]*>[^:]*: .*"
