@@ -2006,7 +2006,7 @@
 		"sphere03.openingnavigate05"	"<clr:29,172,214>ilo Wili: o awen! ni li kepeken wawa suli!"
 		"sphere03.openingnavigate06"	"<clr:29,172,214>ilo Wili: a, mi... mi o tawa e ni..."
 		"sphere03.openingnavigate12"	"<clr:29,172,214>ilo Wili: n, a, ni li ken pona... sina lukin ala lukin? mi ken ala ken tawa lon ni? suli anu lili la ni li seme?"
-		"sphere03.openingnavigate16"	"<clr:29,172,214>ilo Wili: ì Aggh, see, now I hit that one, I hit that one..."
+		"sphere03.openingnavigate16"	"<clr:29,172,214>ilo Wili: a, o lukin, mi tawa e tomo tawa tomo ante, mi pakala e ona..."
 		"sphere03.openingnavigate17"	"<clr:29,172,214>ilo Wili: sina pilin seme? sina ken ala ken awen?"
 		"sphere03.openingoutside01"	"<clr:29,172,214>ilo Wili: ì Alright, I wasn't going to mention this to you, but I am in PRETTY HOT WATER here."
 		"sphere03.openingoutside02"	"<clr:29,172,214>ilo Wili: poki wawa li pini jo e wawa, la tomo li pini ala e lape pi jan pi alasa sona a!"
