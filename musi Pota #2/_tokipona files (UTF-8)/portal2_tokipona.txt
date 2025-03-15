@@ -12,7 +12,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 // cfg_xboxlive_builtin_strings.cfg 
-"X_STRINGID_TITLENAME" "musi Pot #2"
+"X_STRINGID_TITLENAME" "musi Pota #2"
 "X_STRINGID_RANK" "Rank"
 "X_STRINGID_GAMERNAME" "nimi jan"
 "X_STRINGID_GAMER_ZONE" "ma suli jan"
