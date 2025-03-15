@@ -3,3 +3,5 @@ Copy ..._english.txt to C:\Program Files (x86)\Steam\steamapps\common\Portal\por
 Drag it into C:\Program Files (x86)\Steam\steamapps\common\Portal\bin\captioncompiler.exe
 Move both the .txt file and the new .dat file to C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2
 Done
+
+Or just use put.bat if it works

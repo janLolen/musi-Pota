@@ -371,7 +371,7 @@
 "L4D360UI_GameSettings_LiveFriends"					"GAME SETTINGS: FRIENDS-ONLY GAME"
 "L4D360UI_GameSettings_SysLink"						"GAME SETTINGS: LAN GAME" [$WIN32]
 "L4D360UI_GameSettings_SysLink"						"GAME SETTINGS: SYSTEM LINK GAME" [$GAMECONSOLE]
-"L4D360UI_GameSettings_Solo"						"SINGLE PLAYER"
+"L4D360UI_GameSettings_Solo"						"musi pi jan wan"
 "L4D360UI_GameSettings_OfflineCoop"					"OFFLINE CO-OP"
 "L4D360UI_GameSettings_Commentary"					"DEVELOPER COMMENTARY"
 "L4D360UI_GameSettings_Invite"						"GAME SETTINGS: PRIVATE GAME"
@@ -423,8 +423,8 @@
 "PORTAL2_SignIn_Title"						"GAMER PROFILE"
 
 //Main Menu//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-"PORTAL2_MainMenu_CoOp"							"musi pi jan wan"
-"PORTAL2_MainMenu_Solo"							"musi pi jan tu"
+"PORTAL2_MainMenu_CoOp"							"musi pi jan tu"
+"PORTAL2_MainMenu_Solo"							"musi pi jan wan"
 "PORTAL2_MainMenu_StatsAndAchievements"			"pali suli"
 "PORTAL2_MainMenu_Options"						"nasin ilo"
 "L4D360UI_MainMenu_ChangeGamers"				"SIGN IN"
@@ -1139,7 +1139,7 @@
 "L4D360UI_Mode_teamversus"					"Team Versus"
 "L4D360UI_Mode_scavenge"					"Scavenge"			// TODO: Change to real name
 "L4D360UI_Mode_teamscavenge"				"Team Scavenge"		// TODO: Change to real name
-"L4D360UI_Mode_offline_SP"					"Single Player"
+"L4D360UI_Mode_offline_SP"					"musi pi jan wan"
 "L4D360UI_Mode_offline_SS"					"Offline Co-op"
 
 "L4D360UI_ModeCaps_coop"						"COOPERATIVE"
@@ -1149,7 +1149,7 @@
 "L4D360UI_ModeCaps_teamversus"					"TEAM VERSUS"
 "L4D360UI_ModeCaps_scavenge"					"SCAVENGE"			// TODO: Change to real name
 "L4D360UI_ModeCaps_teamscavenge"				"TEAM SCAVENGE"		// TODO: Change to real name
-"L4D360UI_ModeCaps_offline_SP"					"SINGLE PLAYER"
+"L4D360UI_ModeCaps_offline_SP"					"musi pi jan wan"
 "L4D360UI_ModeCaps_offline_SS"					"OFFLINE CO-OP"
 
 "L4D360UI_FoudGames_CreateNew_coop"			"Create New Cooperative Game"
