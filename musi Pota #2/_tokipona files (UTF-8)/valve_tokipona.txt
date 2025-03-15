@@ -79,7 +79,7 @@
 "Valve_Switch_Weapons_Immediately"	"Switch Weapons Immediately"
 "Valve_Automatic_Screenshots"		"Automatically Take End-Game Screenshots"
 "Valve_Observer_Crosshair"		"Observer Crosshair"
-"Valve_Console_Toggle"		"Toggle Developer Console"
+"Valve_Console_Toggle"		"poki pi nimi wawa o kama o weka"
 
 
 "Spec_Slow_Motion" "Slow Motion"
