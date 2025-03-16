@@ -1,5 +1,9 @@
-Translated lines: "<clr:[0-9]+,[0-9]+,[0-9]+>[aeioujwklmnpst][aeioujwklmnpstAEIOUJWKLMNPST ]+: [aeioujwklmnpst'\[][aeioujwklmnpstchAEIOUJWKLMNPST\.,!?;:\-\[\]' ]+"
-All lines: "<clr:[0-9]+,[0-9]+,[0-9]+>[^:]*: .*"
+Translated lines:
+    subtitles: "((<clr:[0-9]+,[0-9]+,[0-9]+>[aeioujwklmnpst][aeioujwklmnpstAEIOUJWKLMNPST ]+:)|(\[[aeioujwklmnpst][aeioujwklmnpstAEIOUJWKLMNPST ]+\])) [aeioujwklmnpst'\[][aeioujwklmnpstchAEIOUJWKLMNPST\.,!?;:\-\[\]' ]+"
+    other files: ".*"[ 	]+"[aeioujwklmnpst][aeioujwklmnpstAEIOUJWKLMNPST? ]+"\n
+All lines:
+    subtitles: "((<clr:[0-9]+,[0-9]+,[0-9]+>[^:]*:)|(\[.*\])) .*"
+    other files: ".*"[ 	]+".*"\n
 Untokiponized names: "<clr:[0-9]+,[0-9]+,[0-9]+>[A-Z]
 Cores:
     search: >(Core )([0-9]):
