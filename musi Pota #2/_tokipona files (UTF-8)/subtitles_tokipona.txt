@@ -99,7 +99,7 @@
 		"announcer.wakeup_powerup01"	"<clr:250,231,181>ilo pi pana sona: Powerup initiated."
 		"announcer.wakeup_powerup02"	"<clr:250,231,181>ilo pi pana sona: Powerup complete."
 		"cavejohnson.cave_laugh04"	"<clr:205,149,117>jan Kewi Sansen: [laugh]"
-		"cavejohnson.eighties_intro01"	"<clr:205,149,117>jan Kewi Sansen: Welcome to the enrichment center. [cough]"
+		"cavejohnson.eighties_intro01"	"<clr:205,149,117>jan Kewi Sansen: o kama pona lon tomo pi kama sona. [mu kon pi ike sijelo]"
 		"cavejohnson.eighties_intro03"	"<clr:205,149,117>jan Kewi Sansen: Since making test participation mandatory for all employees, the quality of our test subjects has risen dramatically. Employee retention, however, has not."
 		"cavejohnson.eighties_intro04"	"<clr:205,149,117>jan Kewi Sansen: [cough] As a result, you may have heard we're gonna phase out human testing. There's still a few things left to wrap up, though."
 		"cavejohnson.eighties_intro06"	"<clr:205,149,117>jan Kewi Sansen: First up, conversion gel. [cough]"
