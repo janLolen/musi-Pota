@@ -2019,7 +2019,7 @@
 		"sphere03.openingprepare04"	"<clr:29,172,214>ilo Wili: a. ken la, sina o luka e ijo. mi toki e pilin mi taso, sina o lon e wile sina."
 		"sphere03.openingstorystraight02"	"<clr:29,172,214>ilo Wili: n, o kute, mi en sina li len e sona la mi o len pi nasin sama e ona. jan li wile e sona la -- jan ala li ken wile sona -- taso, jan li wile sona la, o toki e ni: sona ale sina la, tenpo pini la, jan ala li moli lukin. sina sona ala sona? ona li moli ala tawa sina."
 		"sphere03.openingstorystraight03"	"<clr:29,172,214>ilo Wili: n, ala. ale la o toki ala e ijo pi tenpo ni tawa jan."
-		"sphere03.openingwall01"	"<clr:29,172,214>ilo Wili: pona, mi pini lon tenpo poka. kulupu pi tomo sona lon poka ante pi sinpin ni. ilo lon ni la mi wile e ona tawa weka. mi la ni li tomo awen. o kama ken..."
+		"sphere03.openingwall01"	"<clr:29,172,214>ilo Wili: pona, mi pini lon tenpo poka. kulupu pi tomo sona li lon poka ante pi sinpin ni. ilo li lon ni la mi wile e ona tawa weka. mi la ni li tomo awen. o kama ken..."
 		"sphere03.openingwallhitone01"	"<clr:29,172,214>ilo Wili: aaaaaa!"
 		"sphere03.openingwallhitone02"	"<clr:29,172,214>ilo Wili: ì Good news: that is NOT a docking station. So there's one mystery solved. I'm going to attempt a manual override on this wall. Could get a bit technical! Hold on!"
 		"sphere03.openingwallhitthree01"	"<clr:29,172,214>ilo Wili: ì Whew. There we go! Now I'll be honest, you are probably in no fit state to run this particular type of cognitive gauntlet. But... um... at least you're a good jumper. So... you've got that. You've got the jumping on your side. Just do your best, and I'll meet you up ahead."
